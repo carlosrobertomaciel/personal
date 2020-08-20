@@ -1,7 +1,7 @@
 {
     "name": "crmtec/cepdigital",
     "description": "Busca de CEP online",
-    "license": "NIT",
+    "license": "MIT",
     "authors": [{
         "name": "carlosrobertomaciel",
         "email": "65622478+carlosrobertomaciel@users.noreply.github.com"
